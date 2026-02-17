@@ -3,7 +3,7 @@
 
 **SuperSniperPlus** is a powerful, lightweight screen capture and image editing tool built for Windows. It streamlines the process of capturing, annotating, and sharing screenshots without cluttering your desktop.
 
-## 📸 Vistazo a SuperSniperPlus
+## 📸 A look at SuperSniperPlus
 
 
 https://github.com/user-attachments/assets/171b31a2-3789-4eb3-8f6b-700698fd89cf
