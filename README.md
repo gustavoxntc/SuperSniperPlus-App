@@ -32,7 +32,9 @@
 | **Alt + S** | Trigger new screen capture (Global) |
 | **Esc** | Cancel snip or close the editor |
 | **Ctrl + Z** | Undo last action |
-| **Delete** | Remove selected object |
+| **Ctrl + Y** | Redo last action |
+| **Delete/Supr** | Remove selected object |
+| **Ctrl + H** | Open History |
 
 ## 📖 Documentation
 
