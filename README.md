@@ -5,6 +5,10 @@
 
 ## 📸 Vistazo a SuperSniperPlus
 
+
+https://github.com/user-attachments/assets/171b31a2-3789-4eb3-8f6b-700698fd89cf
+
+
 **Main Interface (Dark Mode)**
 ![Hero Shot](assets/mockup1.png)
 
