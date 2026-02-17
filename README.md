@@ -1,3 +1,4 @@
+# <img src="assets/screenshot6.png" width="40" vertical-align="middle"/> SuperSniperPlus
 # 📸 SuperSniperPlus
 
 **SuperSniperPlus** is a powerful, lightweight screen capture and image editing tool built for Windows. It streamlines the process of capturing, annotating, and sharing screenshots without cluttering your desktop.
