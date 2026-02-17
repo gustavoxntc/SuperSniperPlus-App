@@ -13,6 +13,10 @@
 * **Privacy First**: Built-in **Pixelate** tool to hide sensitive information instantly.
 * **Auto-Save & Copy**: One-click saving to `AppData` while automatically copying the image to your clipboard.
 * **Visual History**: Quickly browse and re-edit your previous captures.
+* **New: Free drawing tool (Pencil, Marker, Highlighter, Brush).
+* **New: Support for Dark Theme (Dark Mode) and saved settings.
+* **Added keyboard shortcuts (Ctrl+S, Ctrl+C, Ctrl+Z, etc.).
+* **Hold ALT to draw straight lines or proportional shapes.
 
 ## 🚀 Installation & Download
 
