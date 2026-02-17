@@ -15,7 +15,7 @@
 
 ## 🚀 Installation & Download
 
-1.  Go to the [**Releases**](https://github.com/gustavoxntc/SuperSniperPlus/releases) section.
+1.  Go to the [**Releases**](https://github.com/gustavoxntc/SuperSniperPlus-App/releases) section.
 2.  Download the latest `SuperSniperPlus.exe` installer.
 3.  Run the installer and launch the app.
 4.  The app will live in your **System Tray**. Use the global shortcut to start snipping!
@@ -31,7 +31,7 @@
 
 ## 📖 Documentation
 
-For a detailed guide on how to use the editing tools and manage your storage, visit our [**Project Wiki**](https://github.com/gustavoxntc/SuperSniperPlus/wiki).
+For a detailed guide on how to use the editing tools and manage your storage, visit our [**Project Wiki**](https://github.com/gustavoxntc/SuperSniperPlus-App/wiki).
 
 ## 🛡️ License
 
