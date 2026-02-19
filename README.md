@@ -6,7 +6,9 @@
 ## 📸 A look at SuperSniperPlus
 
 
-https://github.com/user-attachments/assets/171b31a2-3789-4eb3-8f6b-700698fd89cf
+https://github.com/user-attachments/assets/320bd0e7-ca87-428c-bbb9-00b760399f0f
+
+
 
 
 **Main Interface (Dark Mode)**
