@@ -55,6 +55,7 @@ https://github.com/user-attachments/assets/438658f7-c473-487a-b859-e0f6be8870ff
 | **Ctrl + Y** | Redo last action |
 | **Delete/Supr** | Remove selected object |
 | **Ctrl + H** | Open History |
+| **Alt + Hold Right Mouse** | Straight pencil strokes |
 | **Ctrl + +** | Zoom In |
 | **Ctrl + -** | Zoom Out |
 | **Ctrl + Mouse Wheel** | Zoom In-Out in mouse pointer |
