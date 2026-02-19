@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/171b31a2-3789-4eb3-8f6b-700698fd89cf
 * ✨ New: Support for Dark Theme (Dark Mode) and saved settings.
 * ⌨️ Added keyboard shortcuts (Ctrl+S, Ctrl+C, Ctrl+Z, etc.).
 * 📐 Hold ALT to draw straight lines or proportional shapes.
-* ** Starting with v.1.1.3-beta you can upload your images to the cloud and get a link without logging in. You can choose to upload them to your own account using your own imgbb API Key.
+* **Get a link**: Starting with v.1.1.3-beta you can upload your images to the cloud and get a link without logging in. You can choose to upload them to your own account using your own imgbb API Key.
 
 ## 🚀 Installation & Download
 
