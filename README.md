@@ -6,9 +6,7 @@
 ## 📸 A look at SuperSniperPlus
 
 
-https://github.com/user-attachments/assets/320bd0e7-ca87-428c-bbb9-00b760399f0f
-
-
+https://github.com/user-attachments/assets/171b31a2-3789-4eb3-8f6b-700698fd89cf
 
 
 **Main Interface (Dark Mode)**
@@ -54,6 +52,11 @@ https://github.com/user-attachments/assets/320bd0e7-ca87-428c-bbb9-00b760399f0f
 | **Ctrl + Y** | Redo last action |
 | **Delete/Supr** | Remove selected object |
 | **Ctrl + H** | Open History |
+| **Ctrl + +** | Zoom In |
+| **Ctrl + -** | Zoom Out |
+| **Ctrl + Mouse Wheel** | Zoom In-Out in mouse pointer |
+| **Hold Alt + Hold Left Mouse** | Move Image |
+| **Hold Mouse Wheel** | Move Image|
 
 ## 📖 Documentation
 
