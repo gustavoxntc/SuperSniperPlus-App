@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/438658f7-c473-487a-b859-e0f6be8870ff
 
 | Shortcut | Action |
 | :--- | :--- |
-| **Alt + S** | Trigger new screen capture (Global) - Default, buy you can change it from Settings |
+| **Alt + S** | Trigger new screen capture (Global) - Default, but you can change it from Settings |
 | **Esc** | Cancel snip or close the editor |
 | **Ctrl + C** | Copy selection|
 | **Ctrl + H** | Open History |
