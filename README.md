@@ -61,20 +61,27 @@ https://github.com/user-attachments/assets/438658f7-c473-487a-b859-e0f6be8870ff
 
 | Shortcut | Action |
 | :--- | :--- |
-| **Alt + S** | Trigger new screen capture (Global) - Default, but you can change it from Settings |
+| **Alt + S** | Trigger new screen capture (Global) - *Default, but you can change it from Settings* |
 | **Esc** | Cancel snip or close the editor |
-| **Ctrl + C** | Copy selection|
-| **Ctrl + H** | Open History |
-| **Ctrl + V** | Paste from clipboard|
+| **Ctrl + S** | Save image to disk |
+| **Ctrl + C** | Copy to clipboard *(Supports transparent backgrounds for Lasso/Magic Wand)* |
+| **Ctrl + X** | Cut selection *(Erases the area and copies it to clipboard)* |
+| **Ctrl + V** | Paste image from clipboard into the canvas |
 | **Ctrl + Z** | Undo last action |
 | **Ctrl + Y** | Redo last action |
-| **Delete/Supr** | Remove selected object |
+| **Ctrl + H** | Open Visual History |
+| **Delete / Supr** | Remove the currently selected object |
+| **Hold Shift + Select** | Multi-selection: Combine multiple areas (Region, Lasso, Magic Wand) |
+| **Shift + Drag Corners** | Resize Rectangles and Circles proportionally |
+| **Hold Shift + Mouse** | Draw straight lines while using the Freehand Lasso tool |
+| **Right Click** | Cancel the current Polygonal selection |
 | **Alt + Hold Right Mouse** | Straight pencil strokes |
 | **Ctrl + +** | Zoom In |
 | **Ctrl + -** | Zoom Out |
-| **Ctrl + Mouse Wheel** | Zoom In-Out in mouse pointer |
-| **Hold Alt + Hold Left Mouse** | Move Image |
-| **Hold Mouse Wheel** | Move Image|
+| **Ctrl + 0** | Reset Zoom to 100% |
+| **Ctrl + Mouse Wheel** | Zoom In/Out focusing on the mouse pointer |
+| **Hold Alt + Hold Left Mouse**| Move Image (Pan tool) |
+| **Hold Mouse Wheel** | Move Image (Pan tool) |
 
 
 ## 📖 Documentation
