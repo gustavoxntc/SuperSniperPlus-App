@@ -24,20 +24,32 @@ https://github.com/user-attachments/assets/438658f7-c473-487a-b859-e0f6be8870ff
 **Personalization and Themes**
 ![Settings](assets/mockup3.png)
 
-## ✨ Key Features
+### ✨ Key Features
 
-* **Smart Selection**: Capture any area of your screen with multi-monitor support.
-* **Contextual UI**: A clean interface where editing tools (Text/Shapes) only appear when you need them.
-* **Pro Annotations**: Add arrows, rectangles, circles, lines, and text with custom fonts and colors.
-* **Privacy First**: Built-in **Pixelate** tool to hide sensitive information instantly.
-* **Auto-Save & Copy**: One-click saving to `AppData` while automatically copying the image to your clipboard.
-* **Visual History**: Quickly browse and re-edit your previous captures.
-* ✨ New: Free drawing tool (Pencil, Marker, Highlighter, Brush).
-* ✨ New: Support for Dark Theme (Dark Mode) and saved settings.
-* ⌨️ Added keyboard shortcuts (Ctrl+S, Ctrl+C, Ctrl+Z, etc.).
-* 📐 Hold ALT to draw straight lines or proportional shapes.
-* **Get a link**: Starting with v.1.1.3-beta you can upload your images to the cloud and get a link without logging in. You can choose to upload them to your own account using your own imgbb API Key.
+**✂️ Pro-Level Selection & Masking (NEW)**
+* **Magic Wand Tool:** Instantly select contiguous colors with adjustable tolerance and a visual "Quick Mask" preview.
+* **Advanced Lassos:** Draw freehand shapes or use the Polygon tool to click point-by-point for precise geometric cuts.
+* **Multi-Selection:** Hold `Shift` to accumulate multiple selections (mix rectangles, lassos, and magic wand areas) before copying.
+* **Transparent Clipboard:** Copy irregular or curved selections and paste them anywhere (Discord, Photoshop, etc.) with a perfect, 100% transparent PNG background.
 
+**🎨 Powerful Editing & Annotations**
+* **Pro Annotations:** Add arrows, rectangles, circles, lines, and text with custom fonts, colors, and backgrounds.
+* **Freehand Drawing:** Choose from Pencil, Marker, Highlighter (with real transparency blending), Brush, and Eraser.
+* **Object Transformation:** Select any drawn object or text to move, resize, rotate 360°, or flip horizontally/vertically.
+* **External Pasting:** Press `Ctrl+V` to paste any image from your clipboard directly into your current canvas.
+* **Privacy First:** Built-in Pixelate tool to hide sensitive information instantly with adjustable blur intensity.
+
+**🖥️ Seamless Workflow & UI**
+* **Contextual Floating Toolbar:** Editing tools and sliders appear dynamically near the object you are editing, keeping the interface clean.
+* **Canvas Navigation:** Zoom in/out (from 10% to 500%) using `Ctrl + MouseWheel` and Pan across large images using `Middle Click` or `Alt + Click`.
+* **System Tray & Global Hotkeys:** Runs quietly in the background. Take captures instantly with customizable global shortcuts (e.g., `Alt+S`), even if the app is minimized.
+* **Modern Settings Panel:** A sleek, Windows 11-style interface with vertical tabs, iOS-style toggle switches, and full support for Dark, Light, and System themes.
+* **Visual History:** Press `Ctrl+H` to quickly browse, search, and re-edit your previous captures.
+
+**☁️ Export & Cloud Integration**
+* **Instant Cloud Upload:** Upload directly to ImgBB without logging in. Generates automatic ready-to-use codes (Direct URL, HTML, Markdown, BBCode). Supports custom API keys.
+* **Auto-Save:** One-click saving to your local AppData folder while automatically copying the image to your clipboard.
+* **Built-in Auto-Updater:** Silently checks GitHub for new releases and notifies you when a new version is available with a 1-click update prompt.
 ## 🚀 Installation & Download
 
 1.  Go to the [**Releases**](https://github.com/gustavoxntc/SuperSniperPlus-App/releases) section.
