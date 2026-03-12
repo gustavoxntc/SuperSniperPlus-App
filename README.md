@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/438658f7-c473-487a-b859-e0f6be8870ff
 ![Herramientas y Dibujo](assets/mockup4.png)
 
 **Pixelated censorship**
-![Efecto Pixelate](assets/mockup5.png)
+![Efecto Pixelate](assets/ssppixelatemockup.png)
 
 **Personalization and Themes**
 ![Settings](assets/mockup3.png)
