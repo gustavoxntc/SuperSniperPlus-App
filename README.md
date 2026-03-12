@@ -10,19 +10,19 @@
 https://github.com/user-attachments/assets/438658f7-c473-487a-b859-e0f6be8870ff
 
 
+**Precision Tools**
+![Herramientas y Dibujo](assets/sspprecisiontoolsmockup.png)
 
+**Personalization and Themes**
+![Settings](assets/sspsettingsmockup.png)
 
 **Main Interface (Dark Mode)**
 ![Hero Shot](assets/mockup1.png)
 
-**Precision Tools**
-![Herramientas y Dibujo](assets/mockup4.png)
-
 **Pixelated censorship**
 ![Efecto Pixelate](assets/ssppixelatemockup.png)
 
-**Personalization and Themes**
-![Settings](assets/mockup3.png)
+
 
 ### ✨ Key Features
 
